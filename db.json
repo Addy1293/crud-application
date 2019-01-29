@@ -1,0 +1,55 @@
+{
+    "pokemon": [
+        {
+            "id": 1,
+            "name": "Pikachu",
+            "image": ""
+        },
+        {
+            "id": 2,
+            "name": "Onix",
+            "image": ""
+        },
+        {
+            "id": 3,
+            "name": "Steelix",
+            "image": ""
+        },
+        {
+            "id": 4,
+            "name": "Rayquaza",
+            "image":""
+        },
+        {
+            "id": 5,
+            "name": "Snorlax",
+            "image": ""
+        },
+        {
+            "id": 6,
+            "name": "Gyarados",
+            "image": ""
+        },
+        {
+            "id": 7,
+            "name": "Wailord",
+            "image": ""
+        },
+        {
+            "id": 8,
+            "name": "Milotic",
+            "image": ""
+        },
+        {
+            "id": 9,
+            "name": "Giratina",
+            "image": ""
+        },
+        {
+            "id": 10,
+            "name": "Ditto",
+            "image": ""
+        }
+
+    ]
+}
