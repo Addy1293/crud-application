@@ -15,7 +15,9 @@
   },
   "description": "app-test",
   "main": "app.js",
-  "devDependencies": {},
+  "devDependencies": {
+    "lodash": "^4.17.11"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Addy1293/crud-application.git"
